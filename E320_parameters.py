@@ -27,7 +27,7 @@ LASER_PARAMETERS = {
     }
     
 # Electron Beam Parameters
-n_macro=5e3;               # Number of macroparticles
+n_macro=5e4;               # Number of macroparticles
 chargebunch = 1.6e-9;     # Charge per electrons bunch [C] pico->10^-12 femto->10^-15
 n_electrons = chargebunch / (1.6e-19)
 beam_energy_MeV=10e3;      # initial beam energy MeV
